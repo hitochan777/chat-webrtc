@@ -1,0 +1,1 @@
+This repo is for me to get familiar with DataChannel in WebRTC using webrtc-rs
