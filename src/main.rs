@@ -1,3 +1,4 @@
+// This code is based on https://github.com/webrtc-rs/webrtc/blob/master/examples/examples/data-channels/data-channels.rs
 use std::io::Write;
 use std::sync::Arc;
 
